@@ -64,6 +64,5 @@ private fun List<String>.filterDependingOnLifeSupportRating(
                 it[indice] == '1'
             else
                 it[indice] == '0'
-
         }
     }
